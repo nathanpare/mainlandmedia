@@ -19,17 +19,15 @@ const Aboutme = () => {
        decoration-[#00AFF0] underline pt-5 pb-10'>About Us</p>
 
       <div className='flex flex-col items-center justify-center'>
-        <Image src="/pngaaa.com-807746.png" alt='' height={200} width={200} />
+        <Image src="/pngaaa.com-4993052.png" alt='' height={200} width={200} />
         <p className='text-[rgb(251,247,245)] text-lg font-semibold text-center
-       py-5 px-12 md:px-24'>"At Grease Guys, we understand that your
-        time is valuable. That’s why we bring our top-tier mobile
-        oil change service directly to you. Whether you're at home,
-        at work, or anywhere in between, our team of experienced
-        technicians will take care of your vehicle’s oil change
-        on the spot. No more waiting in line at the shop or
-        adjusting your schedule—we make car maintenance as convenient
-        as it should be. Trust Grease Guys to keep your engine running
-        smoothly, so you can keep going without the hassle."
+       py-5 px-12 md:px-24'>"At Mainland Media Group, we specialize
+          in bringing your brand to life. From custom websites and
+          eye-catching logos to impactful promotional materials,
+          we provide creative solutions that help your business
+          stand out. Our passion is helping businesses succeed
+          through innovative design and thoughtful branding,
+          tailored to meet your unique vision and goals."
         </p>
       </div>
     </div>

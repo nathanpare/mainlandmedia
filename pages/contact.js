@@ -74,7 +74,7 @@ const Contact = () => {
         <textarea
           {...register("message", { required: true })}
           className='contactInput'
-          placeholder='Tell us your vehicles Year, Make and Model'
+          placeholder='Tell us your what we can do for you!'
           minLength="1"
           maxLength="1500"
         />
