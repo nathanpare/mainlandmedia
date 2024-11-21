@@ -10,7 +10,7 @@ const Header = () => {
     <div className='sticky top-0 h-24 flex justify-between
      items-center px-5'>
       <Image onClick={() => router.push("/")} className='cursor-pointer mt-6'
-        src="/Mainland media edited.png"
+        src={"/static/images/Mainland media edited.png"}
         alt='' height={100} width={100} />
       <Dropdown />
     </div>
